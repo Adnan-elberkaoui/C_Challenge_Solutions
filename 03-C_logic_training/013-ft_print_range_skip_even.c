@@ -12,8 +12,3 @@ void ft_print_range_skip_even(int min, int max)
         min++;
     }
 }
-int main (void)
-{
-    ft_print_range_skip_even(0,7);
-    return 0;
-}

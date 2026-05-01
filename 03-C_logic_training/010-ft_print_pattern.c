@@ -23,8 +23,3 @@ void ft_print_pattern(int n)
     }
     
 }
-int main (void)
-{
-    ft_print_pattern(5);
-    return 0 ;
-}

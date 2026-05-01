@@ -10,8 +10,3 @@ void ft_print_range(int min, int max)
     }
     write(1,"\n",1);
 }
-int main (void)
-{
-    ft_print_range(4,9);
-    return 0 ;
-}

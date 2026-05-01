@@ -43,9 +43,3 @@ void ft_print_grid_skip(int width, int height)
     }
     
 }
-
-int main (void)
-{
-    ft_print_grid_skip(5 , 4);
-    return 0 ;
-}

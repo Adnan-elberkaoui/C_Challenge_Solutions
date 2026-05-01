@@ -21,8 +21,3 @@ void ft_print_grid(int width, int height)
     }
     
 }
-int main (void)
-{
-    ft_print_grid(5 , 4);
-    return 0 ;
-}

@@ -25,9 +25,3 @@ void ft_print_pairs(void)
     }
 
 }
-
-int main (void)
-{
-    ft_print_pairs();
-    return 0 ;
-}

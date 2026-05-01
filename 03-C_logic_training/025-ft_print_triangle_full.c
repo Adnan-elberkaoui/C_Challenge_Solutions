@@ -29,8 +29,3 @@ void ft_print_triangle_full(int n)
     }
     
 }
-int main (void)
-{
-    ft_print_triangle_full(5);
-    return 0 ;
-}

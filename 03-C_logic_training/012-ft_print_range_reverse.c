@@ -10,8 +10,3 @@ void ft_print_range_reverse(int min, int max)
     }
     write(1,"\n",1);
 }
-int main (void)
-{
-    ft_print_range_reverse(3, 7);
-    return 0 ;
-}

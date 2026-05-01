@@ -32,9 +32,3 @@ void ft_print_pairs_and_odds(void)
     }
 
 }
-
-int main (void)
-{
-    ft_print_pairs_and_odds();
-    return 0 ;
-}
