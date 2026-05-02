@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿#  C Piscine Preparation
 
 This repository contains my daily coding practice as I prepare for the **1337/42 piscine**.
@@ -34,3 +35,6 @@ This repository documents my progress from beginner to more advanced levels.
 > Consistency > Motivation
 
 I focus on understanding concepts deeply and improving every day.
+=======
+﻿A structured set of C programming exercises focusing on low-level concepts like pointers, memory, arrays, and control flow. Built while learning core computer science fundamentals and improving problem-solving skills.
+>>>>>>> Stashed changes
