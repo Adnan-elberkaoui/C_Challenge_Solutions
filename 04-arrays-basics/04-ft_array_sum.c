@@ -21,9 +21,3 @@ int ft_array_sum(int *arr, int size)
     return sum;
 
 }
-
-int main (void)
-{
-    int arr[] = {1, 2, 3, 4, 5};
-    printf("%d", ft_array_sum(arr, 5));
-}
